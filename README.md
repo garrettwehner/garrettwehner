@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @garrettwehner
+- 👀 I’m interested in being lazy and doing things the easy way.
+- 💞️ I’m looking to collaborate on expoit writting, pentest automation, and tool add-ons.
+- 📫 How to reach me @driftlesstech on twitter
